@@ -16,9 +16,11 @@
     <img align="center" alt="Rhuan-typescript  height="40" width="50" src="https://user-images.githubusercontent.com/91352588/176567773-1df41582-3313-4bd7-acf7-0b1b63411d2a.png">
      <img align="center" alt="Rhuan-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
      <img align="center" alt="Rhuan-javascript  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-    <img align="center" alt="Rhuan-typescript  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
-    <img align="center" alt="Rhuan-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-    <img align="center" alt="Rhuan-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+     <img align="center" alt="Rhuan-html  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" >
+     <img align="center" alt="Rhuan-css  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" > 
+     <img align="center" alt="Rhuan-typescript  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
+     <img align="center" alt="Rhuan-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+     <img align="center" alt="Rhuan-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   </div>
   
   ##
